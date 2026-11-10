@@ -1,6 +1,8 @@
 
 # Unit 1 Lab Report: It Wasn't Me – Insider Threat Investigation
 
+[← Back to Unit 1](../)
+
 ## Lab Summary
 
 The purpose of this lab was to investigate suspicious network activity within a simulated corporate environment and identify the employee responsible for sending unauthorized emails throughout the company. Acting as a Blue Team analyst within a Security Operations Center (SOC), I used network traffic analysis, DHCP logs, and system security logs to trace the suspicious activity back to a specific host device and user account.
