@@ -1,7 +1,7 @@
 
 # Unit 1 Lab Report: It Wasn't Me – Insider Threat Investigation
 
-[← Back to Unit 1](../)
+[← Back to Unit 1](https://github.com/Bnerj/Unit-1)
 
 ## Lab Summary
 
